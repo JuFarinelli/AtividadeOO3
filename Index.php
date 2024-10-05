@@ -8,7 +8,7 @@
 <body>
     <h1>Cadastro de Bebidas</h1>
 
-    <form action="bebidas.php" method="POST">
+    <form action="Index.php" method="POST">
         <label for="tipo">Selecione o tipo de bebida:</label>
         <select name="tipo" id="tipo">
             <option value="vinho">Vinho</option>
